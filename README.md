@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JohKr
-- 👀 I’m interested in SAP EWM and logistics as beeing part of my job. Smarthome is becomming my passion though in private. Just moved into a KNX integrated newly built house in Germany. Made the KNX configuration my selve and installed all KNX non-230V components myself. Just started with Home Assistant as well. 
-- 🌱 I’m currently learning Home Assistant.
-- 💞️ I’m looking to collaborate on Home Assistant and SAP EWM if this on github. :)
+- 👀 I’m interested in SAP Extended Warehouse Management (EWM) and logistics as beeing part of my job profession. Smarthome is becoming my passion though in private. Just moved into my KNX integrated built house in Germany. Setup the KNX configuration and installed all KNX non-230V components myself. Just started with Home Assistant as well. 
+- 🌱 I’m currently learning Home Assistant and integration topics around KNX and visualization using Lovelace UI.
+- 💞️ I’m looking to collaborate on Home Assistant ( and SAP EWM if this on interest on github). :)
 - 📫 How to reach me: Just text me via mail.
 
 <!---
